@@ -1,0 +1,2 @@
+class Codemaster < ApplicationRecord
+end
